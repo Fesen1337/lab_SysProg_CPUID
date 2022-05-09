@@ -1,0 +1,4 @@
+#!/bin/bash
+
+rm -rf cpuid.d cpuid.o test.d test.o test
+
